@@ -1,0 +1,568 @@
+================================================================================
+LUMARA APPAREL — PRODUCT CATALOG (RAG DATA FILE)
+Brand: Lumara Apparel | lumara-apparel.com
+Generated: June 2026 | Version: 2.1
+Format: Each product block separated by dashes. Fields are machine-readable.
+Use for: RAG indexing, chatbot training, product search, e-commerce automation.
+================================================================================
+
+--------------------------------------------------------------------------------
+PRODUCT: Essential Organic Tee
+SKU: LUM-001
+CATEGORY: T-Shirts
+SUBCATEGORY: Crew Neck
+PRICE: $29.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Our signature crew-neck T-shirt in 180gsm combed organic cotton. Pre-shrunk and colour-fast through 50+ washes, this tee forms the backbone of any conscious wardrobe. Available in 14 colourways from undyed natural to deep forest green.
+MATERIALS: 100% GOTS-Certified Organic Cotton (180gsm combed ring-spun)
+CARE: Machine wash 30°C, tumble dry low, do not bleach, warm iron if needed
+SIZES: XS, S, M, L, XL, XXL, 3XL
+FIT: Regular / Classic
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade Cotton
+TAGS: t-shirt, organic, cotton, crew-neck, everyday, basics, unisex, sustainable, comfortable, casual, wardrobe-staple, pre-shrunk
+COLOUR_OPTIONS: Natural White, Off-Black, Forest Green, Slate Grey, Navy, Dusty Rose, Terracotta, Sky Blue, Sand, Burgundy, Sage, Mustard, Charcoal, Cream
+WEIGHT_GSM: 180
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.8/5 (2,341 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Classic Oxford Shirt
+SKU: LUM-002
+CATEGORY: T-Shirts
+SUBCATEGORY: Button-Down Shirts
+PRICE: $59.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: A timeless button-down woven from 100% organic Egyptian extra-long staple cotton. Structured enough for the office, relaxed enough for weekends. Features a split yoke back, mother-of-pearl buttons, and a chest patch pocket. Preshrunk with a wash-and-wear finish.
+MATERIALS: 100% Organic Egyptian Extra-Long Staple Cotton (130gsm plain weave)
+CARE: Machine wash 40°C, line dry, medium iron, do not dry clean
+SIZES: XS, S, M, L, XL, XXL
+FIT: Classic / Relaxed
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade
+TAGS: oxford, button-down, shirt, formal, office, work, cotton, egyptian-cotton, classic, business-casual, refined, breathable, structured, versatile
+COLOUR_OPTIONS: White, Light Blue, Pale Pink, Mint Green, Lavender, Navy Stripe
+WEIGHT_GSM: 130
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.7/5 (1,089 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Hemp V-Neck Tee
+SKU: LUM-003
+CATEGORY: T-Shirts
+SUBCATEGORY: V-Neck
+PRICE: $34.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Luxuriously soft hemp-cotton blend (60% organic hemp, 40% organic cotton) with a relaxed V-neckline and dropped shoulders. Hemp naturally softens with every wash and has a 4x lower water footprint than conventional cotton. A guilt-free everyday essential.
+MATERIALS: 60% Organic Hemp, 40% Organic Cotton (160gsm jersey knit)
+CARE: Machine wash cold 30°C, line dry preferred, cool iron, do not bleach
+SIZES: XS, S, M, L, XL, XXL
+FIT: Relaxed / Oversized
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100
+TAGS: hemp, v-neck, t-shirt, casual, relaxed, eco-friendly, low-water, soft, sustainable, vegan, breathable, summer, blend, organic
+COLOUR_OPTIONS: Natural Ecru, Washed Olive, Washed Black, Pale Sage, Clay
+WEIGHT_GSM: 160
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.6/5 (743 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Linen Relaxed Shirt
+SKU: LUM-004
+CATEGORY: T-Shirts
+SUBCATEGORY: Shirts
+PRICE: $64.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: 100% washed Belgian linen in a boxy, relaxed fit. Naturally wrinkle-prone texture adds effortless character — wear it crumpled, that's the point. Features a single patch pocket, coconut shell buttons, and a rounded hem for versatile tucking.
+MATERIALS: 100% Masters of Linen Certified Belgian Linen (125gsm washed)
+CARE: Machine wash 40°C, line dry flat, iron while damp or steam, do not tumble dry
+SIZES: S, M, L, XL, XXL
+FIT: Boxy / Oversized
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: Masters of Linen (BFLF), OEKO-TEX STANDARD 100
+TAGS: linen, shirt, belgian-linen, relaxed, boxy, summer, breathable, natural, casual, sustainable, washed-linen, coconut-buttons
+COLOUR_OPTIONS: Ecru, Stone, Washed Navy, Pale Sand, Clay, Sage Green
+WEIGHT_GSM: 125
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.7/5 (612 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Essential Hoodie
+SKU: LUM-005
+CATEGORY: Hoodies
+SUBCATEGORY: Pullover Hoodies
+PRICE: $79.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Heavyweight French terry in a 70% organic cotton / 30% bamboo blend. Kangaroo pocket, adjustable drawcord with recycled metal aglets, and a ribbed hem. The bamboo content adds natural moisture-wicking and a subtle sheen to the fabric surface.
+MATERIALS: 70% GOTS Organic Cotton, 30% Organic Bamboo Viscose (400gsm French terry)
+CARE: Machine wash 30°C inside out, tumble dry low, do not iron decoration, reshape while damp
+SIZES: S, M, L, XL, XXL, 3XL
+FIT: Relaxed
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade
+TAGS: hoodie, pullover, cotton, bamboo, french-terry, heavyweight, cosy, casual, streetwear, loungewear, moisture-wicking, kangaroo-pocket, organic
+COLOUR_OPTIONS: Charcoal, Off-Black, Navy, Forest Green, Dusty Rose, Oat, Stone, Burgundy
+WEIGHT_GSM: 400
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.9/5 (3,201 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Recycled Zip Hoodie
+SKU: LUM-006
+CATEGORY: Hoodies
+SUBCATEGORY: Zip-Up Hoodies
+PRICE: $89.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Made from 100% post-consumer recycled polyester fleece, sourced exclusively from Unifi REPREVE® certified recycled plastic bottles. Full-zip with a YKK recycled zipper, two side pockets, and a cosy lined hood with flat drawcord.
+MATERIALS: 100% REPREVE® Recycled Polyester Fleece (380gsm)
+CARE: Machine wash cold, tumble dry low, do not iron, wash with like colours
+SIZES: XS, S, M, L, XL, XXL
+FIT: Regular
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: Global Recycled Standard (GRS), Bluesign, OEKO-TEX STANDARD 100
+TAGS: hoodie, zip-up, recycled, polyester, fleece, sustainable, eco, casual, outdoor, streetwear, REPREVE, GRS, post-consumer
+COLOUR_OPTIONS: Black, Grey Marl, Navy, Forest, Rust
+WEIGHT_GSM: 380
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.6/5 (897 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Merino Pullover
+SKU: LUM-007
+CATEGORY: Hoodies
+SUBCATEGORY: Knitwear
+PRICE: $134.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Superfine 17.5-micron ZQ-certified merino wool in a relaxed pullover silhouette. Temperature-regulating and naturally odour-resistant — proven to stay fresh for 3–5 days of continuous wear. Ribbed cuffs and hem, mock neck collar.
+MATERIALS: 100% ZQ Certified Merino Wool (17.5 micron, 300gsm knit)
+CARE: Hand wash cold or wool machine cycle, flat dry, do not tumble dry, dry clean if needed
+SIZES: XS, S, M, L, XL
+FIT: Relaxed / Oversized
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory)
+CERTIFICATIONS: Responsible Wool Standard (RWS), ZQ Merino Certified, OEKO-TEX STANDARD 100
+TAGS: merino, wool, pullover, knitwear, warm, odour-resistant, temperature-regulating, travel, smart-casual, mock-neck, fine-knit, premium, ZQ
+COLOUR_OPTIONS: Cream, Oat, Slate Blue, Charcoal, Rust, Forest Green, Wine
+WEIGHT_GSM: 300
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.8/5 (521 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Alpine Wool Jacket
+SKU: LUM-008
+CATEGORY: Jackets
+SUBCATEGORY: Wool Jackets
+PRICE: $189.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Merino wool outer shell with a REPREVE® recycled polyester lining. Wind-resistant outer weave treated with a PFC-free DWR (durable water repellent) finish. Two chest pockets, two side pockets, and a concealed hood in the collar. Ideal for mountain conditions and city commutes alike.
+MATERIALS: Outer: 85% RWS Merino Wool, 15% Recycled Nylon | Lining: 100% REPREVE® Recycled Polyester
+CARE: Dry clean or gentle hand wash cold, reshape and flat dry, do not tumble dry
+SIZES: XS, S, M, L, XL
+FIT: Tailored / Slim
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory)
+CERTIFICATIONS: RWS, Global Recycled Standard, Bluesign, OEKO-TEX STANDARD 100
+TAGS: jacket, wool, merino, alpine, outerwear, wind-resistant, DWR, water-repellent, mountain, hiking, smart-casual, premium, travel, packable
+COLOUR_OPTIONS: Charcoal, Olive, Navy, Forest Green, Camel
+WEIGHT_GSM: 320
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.7/5 (389 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Organic Denim Jacket
+SKU: LUM-009
+CATEGORY: Jackets
+SUBCATEGORY: Denim
+PRICE: $149.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: 14oz selvedge denim from our partner mills in Okayama, Japan. Naturally indigo-dyed using a water-saving rope-dyeing process that uses 60% less water than conventional denim dyeing. Classic trucker silhouette with copper rivets, two chest pockets, and two hand pockets.
+MATERIALS: 100% GOTS Organic Cotton Selvedge Denim (14oz, natural indigo dyed)
+CARE: Wash infrequently, machine wash cold inside out, line dry, do not tumble dry, expect natural fading
+SIZES: XS, S, M, L, XL, XXL
+FIT: Classic / Regular
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory — fabric from Japan)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade Cotton
+TAGS: denim, jacket, selvedge, indigo, organic-denim, trucker-jacket, casual, classic, jeans, cotton, Japanese-denim, vintage, copper-rivets
+COLOUR_OPTIONS: Natural Indigo, Stone Wash, Dark Indigo, Ecru (undyed)
+WEIGHT_GSM: 476 (14oz)
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.6/5 (472 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Waxed Canvas Parka
+SKU: LUM-010
+CATEGORY: Jackets
+SUBCATEGORY: Parkas
+PRICE: $229.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Water-resistant waxed organic cotton canvas with a removable recycled fleece liner. Built for serious British weather and cold-climate adventures. Features a storm collar, adjustable cuffs, multiple pockets (4 exterior, 2 interior), and a wax finish that can be re-waxed at home for lifelong durability.
+MATERIALS: Outer: 100% Organic Cotton Waxed Canvas (380gsm) | Liner: 100% REPREVE® Recycled Polyester Fleece (280gsm)
+CARE: Do not machine wash — sponge clean outer shell, re-wax annually with organic beeswax. Liner machine wash cold.
+SIZES: S, M, L, XL, XXL
+FIT: Regular / Technical
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: GOTS (base cotton), Global Recycled Standard (liner), OEKO-TEX STANDARD 100
+TAGS: parka, waxed-canvas, waterproof, outerwear, winter, heavy-duty, durable, British-weather, canvas, removable-liner, pocket-rich, re-waxable
+COLOUR_OPTIONS: British Tan, Olive Drab, Midnight Navy, Bark Brown
+WEIGHT_GSM: 380 (shell)
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.8/5 (267 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Puffer Vest
+SKU: LUM-011
+CATEGORY: Jackets
+SUBCATEGORY: Vests
+PRICE: $109.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Filled with 100% recycled PET insulation (equivalent to 28 plastic bottles per vest) sourced from recovered ocean plastic. Outer shell in Bluesign-certified recycled nylon. Packable into its own chest pocket. PFC-free DWR water-repellent treatment.
+MATERIALS: Shell: 100% Bluesign Recycled Nylon | Fill: 100% Recycled PET Insulation (80g/m²)
+CARE: Machine wash cold gentle, tumble dry low with clean tennis balls to restore loft, do not dry clean
+SIZES: XS, S, M, L, XL, XXL
+FIT: Regular
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: Global Recycled Standard (GRS), Bluesign, OEKO-TEX STANDARD 100
+TAGS: vest, puffer, recycled, ocean-plastic, packable, lightweight, outerwear, casual, layering, DWR, water-repellent, eco, GRS
+COLOUR_OPTIONS: Black, Olive, Navy, Burnt Orange, Steel Blue, Cream
+WEIGHT_GSM: N/A (insulated)
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.5/5 (318 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Slim Chino
+SKU: LUM-012
+CATEGORY: Trousers
+SUBCATEGORY: Chinos
+PRICE: $74.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: 98% organic cotton, 2% elastane twill chino in a modern slim fit. Wrinkle-resistant enzyme wash finish with a natural stretch. Features a zip fly with branded button, two side pockets, two rear welt pockets. Smart enough for the office, comfortable enough for all day.
+MATERIALS: 98% GOTS Organic Cotton, 2% Elastane (260gsm twill)
+CARE: Machine wash 40°C, tumble dry low, medium iron, do not dry clean
+SIZES: 28W, 30W, 32W, 34W, 36W, 38W (all with 30" and 32" inseam options)
+FIT: Slim
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade
+TAGS: chino, trousers, slim-fit, work, office, smart-casual, stretch, cotton, elastane, wrinkle-resistant, versatile, business, everyday
+COLOUR_OPTIONS: Khaki, Navy, Olive, Stone, Black, Caramel, Slate Grey, Rust
+WEIGHT_GSM: 260
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.6/5 (841 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Wide-Leg Linen Trousers
+SKU: LUM-013
+CATEGORY: Trousers
+SUBCATEGORY: Wide-Leg Trousers
+PRICE: $84.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Breathable wide-leg cut in washed European linen. Elasticated waistband for all-day comfort, two deep side pockets, and a relaxed drape that only improves with wear. The ideal summer trouser — pairs as well with sandals as it does with loafers.
+MATERIALS: 100% Masters of Linen Certified European Linen (150gsm washed)
+CARE: Machine wash 40°C, line dry flat, iron while damp on reverse, steam if needed
+SIZES: XS, S, M, L, XL, XXL
+FIT: Wide-Leg / Relaxed
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: Masters of Linen (BFLF), OEKO-TEX STANDARD 100
+TAGS: linen, trousers, wide-leg, summer, breathable, relaxed, elastic-waist, natural, casual, vacation, beach, resort-wear, sustainable
+COLOUR_OPTIONS: Natural Ecru, Stone, Sage Green, Dusty Blue, Terracotta, Black, White
+WEIGHT_GSM: 150
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.7/5 (534 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Cargo Jogger
+SKU: LUM-014
+CATEGORY: Trousers
+SUBCATEGORY: Joggers
+PRICE: $69.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: GOTS-certified organic cotton fleece jogger with ribbed cargo pockets on both legs and tapered ankles. Drawstring waistband with an internal elastic backing for secure comfort. Streetwear-ready silhouette that works from gym to café.
+MATERIALS: 100% GOTS Organic Cotton (360gsm fleece back terry)
+CARE: Machine wash 30°C inside out, tumble dry low, do not iron decoration
+SIZES: S, M, L, XL, XXL, 3XL
+FIT: Tapered / Relaxed
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade
+TAGS: jogger, cargo, sweatpants, cotton, fleece, streetwear, athleisure, casual, comfortable, drawstring, tapered, gym, organic
+COLOUR_OPTIONS: Charcoal, Black, Olive, Sand, Navy, Forest Green
+WEIGHT_GSM: 360
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.5/5 (623 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Linen Wrap Dress
+SKU: LUM-015
+CATEGORY: Dresses
+SUBCATEGORY: Wrap Dresses
+PRICE: $94.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Lightweight Belgian linen in an adjustable wrap silhouette with a self-tie belt. Midi length (hits just below the knee). Naturally breathable and perfect from desk to dinner. The wrap design accommodates a range of body shapes within each size.
+MATERIALS: 100% Masters of Linen Certified Belgian Linen (130gsm washed)
+CARE: Machine wash 40°C, line dry, iron while damp or steam, do not tumble dry
+SIZES: XS, S, M, L, XL, XXL
+FIT: Wrap / Adjustable
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: Masters of Linen (BFLF), OEKO-TEX STANDARD 100
+TAGS: dress, wrap-dress, linen, midi, summer, breathable, adjustable, natural, casual, work, smart-casual, belgian-linen, belt-tie, versatile
+COLOUR_OPTIONS: Natural Ecru, Stone, Sage Green, Dusty Rose, Navy, Terracotta, Pale Blue
+WEIGHT_GSM: 130
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.7/5 (782 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Organic Midi Dress
+SKU: LUM-016
+CATEGORY: Dresses
+SUBCATEGORY: Midi Dresses
+PRICE: $119.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Flowing midi dress in GOTS-certified organic cotton satin weave. Bias-cut for a flattering, body-skimming drape. Fully lined in lightweight organic cotton voile. Adjustable spaghetti straps, back zip closure. Suitable for both formal occasions and elevated everyday wear.
+MATERIALS: Outer: 100% GOTS Organic Cotton Satin (120gsm) | Lining: 100% Organic Cotton Voile (80gsm)
+CARE: Hand wash cold, flat dry, cool iron on reverse, dry clean acceptable
+SIZES: XS, S, M, L, XL
+FIT: Bias Cut / Fitted
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: GOTS, OEKO-TEX STANDARD 100, Fairtrade
+TAGS: dress, midi, satin, bias-cut, elegant, formal, organic, cotton, lining, occasion, evening, smart, versatile, flattering, spaghetti-straps
+COLOUR_OPTIONS: Ivory, Blush, Midnight Navy, Forest Green, Black, Champagne, Sage
+WEIGHT_GSM: 120
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.8/5 (419 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Knit Maxi Dress
+SKU: LUM-017
+CATEGORY: Dresses
+SUBCATEGORY: Maxi Dresses
+PRICE: $139.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Floor-length rib-knit dress in a Tencel-merino blend (60% TENCEL™ Lyocell, 40% ZQ Merino). Four-way stretch for total freedom of movement. Plunging-V neckline, side slits to the knee, and a wide ribbed waistband. Works year-round — layer with the Merino Pullover in winter.
+MATERIALS: 60% TENCEL™ Lyocell, 40% ZQ Certified Merino Wool (280gsm rib knit)
+CARE: Hand wash cold or wool machine cycle, flat dry, do not tumble dry, do not bleach
+SIZES: XS, S, M, L, XL, XXL
+FIT: Fitted / Stretch
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory)
+CERTIFICATIONS: TENCEL™ Certified, RWS, ZQ Merino, OEKO-TEX STANDARD 100
+TAGS: dress, maxi, knit, rib-knit, merino, tencel, stretch, elegant, V-neck, floor-length, versatile, warm, winter, four-way-stretch
+COLOUR_OPTIONS: Black, Cream, Charcoal, Bordeaux Wine, Sage Green, Dusty Blue
+WEIGHT_GSM: 280
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.8/5 (341 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Cashmere Scarf
+SKU: LUM-018
+CATEGORY: Accessories
+SUBCATEGORY: Scarves
+PRICE: $69.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Grade-A Mongolian cashmere scarf, 180cm × 40cm. Handwoven using traditional Inner Mongolian techniques. Remarkably lightweight at just 120g with exceptional warmth-to-weight ratio. Finished with a hand-knotted fringe. Packable into its own travel pouch.
+MATERIALS: 100% Grade-A Mongolian Cashmere (2-ply, 120gsm)
+CARE: Hand wash cold using cashmere shampoo, flat dry on towel, do not tumble dry, fold don't hang
+SIZES: One Size (180cm × 40cm)
+FIT: One Size
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory — finishing); Mongolia (yarn sourcing)
+CERTIFICATIONS: OEKO-TEX STANDARD 100, Sustainable Fibre Alliance
+TAGS: scarf, cashmere, mongolian, luxury, warm, lightweight, travel, gift, winter, soft, grade-A, handwoven, fringe, packable
+COLOUR_OPTIONS: Camel, Cream, Grey, Black, Navy, Burgundy, Forest Green, Dusty Rose
+WEIGHT_GSM: 120
+TRANSPARENCY_SCORE: 7/10
+RATING: 4.9/5 (503 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Organic Canvas Tote
+SKU: LUM-019
+CATEGORY: Accessories
+SUBCATEGORY: Bags
+PRICE: $44.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: 12oz heavyweight organic cotton canvas tote. Natural beeswax water-proofing treatment (no PFC chemicals). Vegetable-tanned leather handles (rated for 20kg). Reinforced base panel. Internal zip pocket and key-clip. Printed with water-based inks.
+MATERIALS: Shell: 100% GOTS Organic Cotton Canvas (12oz/340gsm) | Handles: Vegetable-Tanned Leather | Hardware: Recycled Brass
+CARE: Spot clean canvas with damp cloth and mild soap, re-wax annually, leather handles condition with natural wax
+SIZES: One Size (38cm × 40cm × 12cm)
+FIT: One Size
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: GOTS (canvas), OEKO-TEX STANDARD 100, Leather Working Group (Gold — handles)
+TAGS: tote, bag, canvas, organic, beeswax, waterproof, leather, vegetable-tanned, eco, sustainable, shopping, beach, everyday, heavy-duty, gift
+COLOUR_OPTIONS: Natural, Olive, Black, Navy, Stone, Terracotta
+WEIGHT_GSM: 340 (canvas)
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.7/5 (672 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Organic Wool Beanie
+SKU: LUM-020
+CATEGORY: Accessories
+SUBCATEGORY: Hats
+PRICE: $34.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Chunky-knit beanie in 100% organic Shetland wool. Naturally water-repellent and odour-resistant. Ribbed cuff folds up for adjustable coverage. Shetland wool is coarser than merino — warmer and more rugged, ideal for outdoor use.
+MATERIALS: 100% Organic Shetland Wool (chunky 200gsm knit)
+CARE: Hand wash cold, flat dry, do not tumble dry, brush gently if pilling occurs
+SIZES: One Size (adjustable cuff, average adult head 54–60cm)
+FIT: One Size
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory)
+CERTIFICATIONS: RWS, OEKO-TEX STANDARD 100
+TAGS: beanie, hat, wool, shetland, organic, warm, winter, outdoor, chunky-knit, water-repellent, rugged, casual, hiking, sustainable
+COLOUR_OPTIONS: Natural Undyed, Charcoal, Navy, Forest Green, Rust, Cream, Wine
+WEIGHT_GSM: 200 (knit)
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.8/5 (891 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Merino Touchscreen Gloves
+SKU: LUM-021
+CATEGORY: Accessories
+SUBCATEGORY: Gloves
+PRICE: $39.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Fine-gauge merino wool gloves with conductive silver-thread fingertips for touchscreen compatibility. Thin enough to use your phone accurately, warm enough for temperatures down to -5°C. Leather palm patch (vegetable-tanned) for grip and durability.
+MATERIALS: 90% ZQ Merino Wool, 8% Nylon, 2% Silver Conductive Thread (200gsm fine gauge) | Palm: Vegetable-Tanned Leather
+CARE: Hand wash cold, flat dry, do not tumble dry
+SIZES: S/M (women's avg), L/XL (men's avg)
+FIT: Slim / Fitted
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory)
+CERTIFICATIONS: RWS, ZQ Merino, OEKO-TEX STANDARD 100
+TAGS: gloves, merino, touchscreen, winter, warm, fine-knit, leather-palm, conductive, smartphone, commuting, gift, sophisticated, sustainable
+COLOUR_OPTIONS: Black, Charcoal, Navy, Camel, Forest Green
+WEIGHT_GSM: 200
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.6/5 (347 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Recycled Backpack
+SKU: LUM-022
+CATEGORY: Accessories
+SUBCATEGORY: Bags
+PRICE: $94.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: 22-litre daypack made from 100% ECONYL® regenerated nylon (recovered from ocean fishing nets, ghost gear, and industrial plastic waste). Padded 15" laptop sleeve, water bottle pockets on both sides, internal organisation panel, and a hidden back-access pocket for security. PFC-free DWR treatment.
+MATERIALS: 100% ECONYL® Regenerated Nylon (210D) | Lining: 100% Recycled Polyester | Hardware: Recycled Zinc Alloy
+CARE: Machine wash cold gentle cycle, air dry, do not tumble dry or dry clean
+SIZES: One Size (22 litres; 45cm × 30cm × 15cm)
+FIT: One Size
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: Global Recycled Standard (GRS), Bluesign, OEKO-TEX STANDARD 100, ECONYL® Certified
+TAGS: backpack, bag, recycled, ocean-plastic, ECONYL, nylon, sustainable, laptop, commuting, travel, daypack, DWR, eco, GRS, functional
+COLOUR_OPTIONS: Black, Navy, Olive, Stone, Forest
+WEIGHT_GSM: N/A (210D nylon)
+CAPACITY: 22 litres
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.7/5 (538 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: TENCEL Midi Skirt
+SKU: LUM-023
+CATEGORY: Dresses
+SUBCATEGORY: Skirts
+PRICE: $79.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: A flowing A-line midi skirt in TENCEL™ Lyocell — one of the most sustainably produced fibres available, made in a closed-loop process using wood pulp from FSC-certified forests. Elasticated waistband with a wide rib panel, two side seam pockets, and a subtle flare from the hip.
+MATERIALS: 100% TENCEL™ Lyocell (130gsm woven)
+CARE: Machine wash 30°C gentle cycle, line dry, cool iron, do not bleach or tumble dry
+SIZES: XS, S, M, L, XL, XXL
+FIT: A-Line / Flared
+COUNTRY_OF_MANUFACTURE: India (Jaipur factory)
+CERTIFICATIONS: TENCEL™ Certified, FSC, OEKO-TEX STANDARD 100
+TAGS: skirt, midi, TENCEL, lyocell, sustainable, A-line, flowing, casual, smart-casual, elastic-waist, pockets, FSC, closed-loop, eco
+COLOUR_OPTIONS: Ivory, Sage Green, Dusty Rose, Navy, Terracotta, Black, Champagne
+WEIGHT_GSM: 130
+TRANSPARENCY_SCORE: 9/10
+RATING: 4.7/5 (423 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Alpaca Crew-Neck Sweater
+SKU: LUM-024
+CATEGORY: Hoodies
+SUBCATEGORY: Knitwear
+PRICE: $159.99
+SALE_PRICE: N/A
+IN_STOCK: Yes
+DESCRIPTION: Baby alpaca crew-neck sweater from our Cusco factory — 10 minutes from where the alpacas are raised. Baby alpaca fibre (22 micron) is softer than merino, naturally hypoallergenic, and 3x warmer than sheep's wool. Ribbed cuffs and hem, dropped shoulder seam.
+MATERIALS: 100% Baby Alpaca (22 micron, 280gsm knit) — sourced from Michell & CIA, Puno Region, Peru
+CARE: Hand wash cold with mild soap, flat dry on towel, do not tumble dry, fold to store
+SIZES: XS, S, M, L, XL
+FIT: Relaxed / Classic
+COUNTRY_OF_MANUFACTURE: Peru (Cusco factory)
+CERTIFICATIONS: RWS (alpaca farms), OEKO-TEX STANDARD 100, Sustainable Fibre Alliance
+TAGS: alpaca, baby-alpaca, sweater, knitwear, luxury, Peru, soft, hypoallergenic, warm, premium, crew-neck, dropped-shoulder, sustainable
+COLOUR_OPTIONS: Natural Cream, Natural Grey, Natural Brown, Natural Black, Indigo Dye, Rust Dye
+WEIGHT_GSM: 280
+TRANSPARENCY_SCORE: 10/10
+RATING: 4.9/5 (214 reviews)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+PRODUCT: Organic Bamboo Lounge Set
+SKU: LUM-025
+CATEGORY: Hoodies
+SUBCATEGORY: Loungewear
+PRICE: $99.99
+SALE_PRICE: N/A
+IN_STOCK: Yes (sold as a set — top + bottom)
+DESCRIPTION: Two-piece lounge set (long-sleeve top + wide-leg trouser) in a buttery-smooth 95% organic bamboo / 5% elastane jersey. Bamboo is naturally thermo-regulating, moisture-wicking, and 3x softer than cotton. The elastane provides a comfortable 4-way stretch. Wide waistband on trousers, ribbed cuffs on top.
+MATERIALS: 95% Organic Bamboo Viscose, 5% Elastane (220gsm jersey knit)
+CARE: Machine wash cold gentle cycle, tumble dry low, do not bleach, do not dry clean
+SIZES: XS, S, M, L, XL, XXL
+FIT: Relaxed / Loungewear
+COUNTRY_OF_MANUFACTURE: Portugal (Braga factory)
+CERTIFICATIONS: OEKO-TEX STANDARD 100, Bluesign
+TAGS: loungewear, pyjamas, bamboo, organic, soft, thermo-regulating, moisture-wicking, 4-way-stretch, set, long-sleeve, wide-leg, comfort, home, casual, gifting
+COLOUR_OPTIONS: Cream, Sage Green, Dusty Rose, Slate Blue, Charcoal, Sand
+WEIGHT_GSM: 220
+TRANSPARENCY_SCORE: 8/10
+RATING: 4.8/5 (607 reviews)
+--------------------------------------------------------------------------------
+
+================================================================================
+END OF LUMARA APPAREL PRODUCT CATALOG
+Total Products: 25
+Categories: T-Shirts (4), Hoodies/Knitwear (5), Jackets (4), Trousers (3), Dresses/Skirts (4), Accessories (5)
+Price Range: $29.99 — $229.99
+Average Price: $89.52
+Manufacturing Locations: Portugal (Braga), India (Jaipur), Peru (Cusco)
+Certifications Featured: GOTS, OEKO-TEX, Fairtrade, RWS, GRS, Bluesign, TENCEL, ZQ Merino, Masters of Linen
+================================================================================
