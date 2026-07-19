@@ -1,0 +1,83 @@
+:root {
+  --ink: #2a2320;
+  --muted: #7a6f68;
+  --gold: #b08d57;
+  --cream: #faf6f1;
+  --line: #e7ded4;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: var(--ink);
+  background: var(--cream);
+  line-height: 1.65;
+}
+a { color: var(--gold); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+
+/* Header / nav */
+header {
+  border-bottom: 1px solid var(--line);
+  background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.brand { font-size: 1.5rem; letter-spacing: 2px; font-weight: bold; }
+.brand small { display: block; font-size: 0.6rem; letter-spacing: 3px; color: var(--muted); font-family: sans-serif; }
+.nav ul { list-style: none; display: flex; gap: 22px; font-family: sans-serif; font-size: 0.85rem; letter-spacing: 1px; text-transform: uppercase; }
+
+/* Hero */
+.hero { text-align: center; padding: 80px 24px; background: #fff; border-bottom: 1px solid var(--line); }
+.hero h1 { font-size: 2.6rem; margin-bottom: 12px; }
+.hero p { color: var(--muted); font-size: 1.1rem; max-width: 520px; margin: 0 auto 24px; }
+.btn {
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background: var(--gold);
+  color: #fff;
+  padding: 12px 28px;
+  border-radius: 2px;
+}
+.btn:hover { background: #96773f; text-decoration: none; }
+
+/* Sections */
+section { padding: 56px 0; }
+h2 { font-size: 1.8rem; margin-bottom: 8px; text-align: center; }
+.sub { text-align: center; color: var(--muted); margin-bottom: 36px; }
+
+/* Service list */
+.services { max-width: 640px; margin: 0 auto; }
+.service {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 14px 0;
+  border-bottom: 1px dashed var(--line);
+}
+.service .meta { color: var(--muted); font-size: 0.9rem; font-family: sans-serif; }
+.service .price { color: var(--gold); font-weight: bold; white-space: nowrap; }
+
+/* Team */
+.team { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 24px; }
+.member { text-align: center; }
+.member .role { color: var(--muted); font-size: 0.85rem; font-family: sans-serif; }
+
+/* Info grid */
+.info { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 28px; }
+.info h3 { font-size: 1.1rem; margin-bottom: 6px; }
+.info p { color: var(--muted); }
+
+footer { border-top: 1px solid var(--line); padding: 28px 0; text-align: center; color: var(--muted); font-size: 0.85rem; font-family: sans-serif; }
